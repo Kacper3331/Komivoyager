@@ -90,8 +90,8 @@ def main
     end
   end
 
-  puts "Last route: \n #{next_route}"
-  puts "Distance: #{next_distance}"
+  puts "Last route: \n #{first_route}"
+  puts "Distance: #{first_distance}"
 end
 
 main()
